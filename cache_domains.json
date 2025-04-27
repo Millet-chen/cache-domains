@@ -127,9 +127,10 @@
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
 		},
-        {
-          "name": "nexon",
-          "file": "nexon.txt"
-        }
+      {
+  "name": "nexon",
+  "domain_files": ["nexon.txt"]
+}
+
 	]
 }
